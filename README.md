@@ -4,7 +4,6 @@
 
 The framework incorporates SVD into the neural network architecture by decomposing the weight matrix between the first and second hidden layers. Specifically, **Thin SVD**, **Compact SVD**, and **Truncated SVD** are employed to reduce redundancy in the parameter space while preserving the essential structure of the learned representations.
 
-This approach leads to improved numerical performance, reduced computational cost, and enhanced generalization capability compared to conventional ANN-based methods.
 
 ---
 
