@@ -32,6 +32,7 @@ This work is published in *Results in Applied Mathematics* (Elsevier).
 ## Intellectual Property
 
 Patent ID: LY2024CO6999
+
 Registered at: Malaysia Intellectual Property Office (MyIPO)
 
 ---
