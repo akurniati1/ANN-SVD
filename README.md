@@ -41,10 +41,14 @@ Registered at: Malaysia Intellectual Property Office (MyIPO)
 If this work is used in academic research, please cite it as follows:
 
 ```bibtex
-@article{ANN_SVD_2024,
-  title   = {ANN-SVD: A Hybrid Neural Network Framework with Singular Value Decomposition for PDE Solving},
+@article{Kurniati2025,
+  author  = {Kurniati, A. B. and Bakar, M. A. and Ibrahim, N. F. and Harun, H. F.},
+  title   = {Enhancing artificial neural network learning efficiency through Singular Value Decomposition for solving partial differential equations},
   journal = {Results in Applied Mathematics},
-  year    = {2024},
-  doi     = {10.1016/j.rinam.2024.100522}
+  volume  = {25},
+  pages   = {100522},
+  year    = {2025},
+  doi     = {10.1016/j.rinam.2024.100522},
+  publisher = {Elsevier}
 }
 
