@@ -29,6 +29,12 @@ https://doi.org/10.1016/j.rinam.2024.100522
 This work is published in *Results in Applied Mathematics* (Elsevier).
 
 ---
+## Intellectual Property
+
+Patent ID: LY2024CO6999
+Registered at: Malaysia Intellectual Property Office (MyIPO)
+
+---
 
 ## Citation
 
@@ -41,3 +47,4 @@ If this work is used in academic research, please cite it as follows:
   year    = {2024},
   doi     = {10.1016/j.rinam.2024.100522}
 }
+
