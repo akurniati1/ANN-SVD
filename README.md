@@ -49,6 +49,8 @@ If this work is used in academic research, please cite it as follows:
   pages   = {100522},
   year    = {2025},
   doi     = {10.1016/j.rinam.2024.100522},
+  url     = {https://doi.org/10.1016/j.rinam.2024.100522},
+  issn    = {2590-0374},
   publisher = {Elsevier}
 }
 
